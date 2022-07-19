@@ -1,0 +1,37 @@
+{
+  "username": "imayaryanto",
+  "album": [
+    "AnimeCatGirlWallpaper"
+  ],
+  "init_jumlah_photo": 100,
+  "pub_id": "pub-8319196384850936",
+  "app_id": "ca-app-pub-8319196384850936~8555663087",
+  "admob_banner_id": "ca-app-pub-8319196384850936/4616418071",
+  "admob_interstitial_id": "ca-app-pub-8319196384850936/3303336406",
+  "admob_native_id": "ca-app-pub-8319196384850936/7815913596",
+  "admob_rewared_id": "ca-app-pub-8319196384850936/9677173060",
+
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "mopub_banner_id": "",
+  "mopub_interstitial_id": "",
+  "mopub_native_id": "",
+
+  "interstitial_inverval": 10,
+  "rewarded_photo_inverval": 4,
+
+  "primary_ads": "ADMOB",
+  "list_ads": [
+    "ADMOB",
+    "MOPUB",
+    "FAN"
+  ]
+}
