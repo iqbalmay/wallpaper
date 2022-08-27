@@ -28,7 +28,7 @@
   "interstitial_inverval": 10,
   "rewarded_photo_inverval": 4,
 
-  "primary_ads": "FAN",
+  "primary_ads": "ADMOB",
   "list_ads": [
     "ADMOB",
     "MOPUB",
