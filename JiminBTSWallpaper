@@ -1,0 +1,37 @@
+{
+  "username": "imayaryanto",
+  "album": [
+    "JiminBTSWallpaper"
+  ],
+  "init_jumlah_photo": 100,
+  "pub_id": "pub-8319196384850936",
+  "app_id": "ca-app-pub-8319196384850936~3440951015",
+  "admob_banner_id": "ca-app-pub-8319196384850936/7301123218",
+  "admob_interstitial_id": "ca-app-pub-8319196384850936/4674959872",
+  "admob_native_id": "ca-app-pub-8319196384850936/3361878203",
+  "admob_rewared_id": "ca-app-pub-8319196384850936/9413077390",
+
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+
+  "fan_banner_id": "",
+  "fan_interstitial_id": "",
+  "fan_native_id": "",
+
+  "mopub_banner_id": "",
+  "mopub_interstitial_id": "",
+  "mopub_native_id": "",
+
+  "interstitial_inverval": 3,
+  "rewarded_photo_inverval": 3,
+
+  "primary_ads": "ADMOB",
+  "list_ads": [
+    "ADMOB",
+    "MOPUB",
+    "FAN"
+  ]
+}
